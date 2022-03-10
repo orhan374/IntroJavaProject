@@ -1,4 +1,4 @@
-package day04;
+                                                                package day04;
 
 public class RelationalOperators {
     public static void main(String[] args) {
@@ -57,8 +57,9 @@ public class RelationalOperators {
             System.out.println("İkinci dikdörtgenin çevresi daha büyüktür.");
         }else{
             System.out.println("İki dikdörtgenin çevresi eşittir.");
+
+            }
         }
 
 
     }
-}

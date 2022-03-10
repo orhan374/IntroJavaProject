@@ -5,16 +5,16 @@ public class Operators {
         //++ ve -- operatörleri
         // Bu iki operatör tek başlarına kullanıldıklarında prefix veya postfix olarak kullanılmasının
         // hiçbir farkı yoktur.
-//        int x=5;
-//        System.out.println(x);
-//        x++;
-//        System.out.println(x);
-//        ++x;
-//        System.out.println(x);
-//        x--;
-//        System.out.println(x);
-//        --x;
-//        System.out.println(x);
+        int x=5;
+        System.out.println(x);
+        x++;
+        //       System.out.println(x);
+        //      ++x;
+        //       System.out.println(x);
+        //       x--;
+        //       System.out.println(x);
+        //     --x;
+        //      System.out.println(x);
 
 //
 //        int y=3;
